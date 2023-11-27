@@ -32,7 +32,7 @@
     <td align="center" width="96">
         <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"               alt="typescript" width="48" height="48"/> </a>
         <br>TypeScript
-    </td>
+    </td></br>
    <td align="center" width="96">
       <a href="https://react.dev/">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
