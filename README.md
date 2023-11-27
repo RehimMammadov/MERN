@@ -5,7 +5,24 @@
 
 <table width='100%'>
   <tr>
-    
+    <td align="center" width="96"> 
+        <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/> 
+        </a>
+        <br>PostMan
+    </td>
+    <td align="center" width="96"> 
+      <a href="https://www.npmjs.com/" >
+        <img src="https://brandeps.com/icon-download/N/Npm-icon-vector-05.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>Npm
+    </td>
+    <td align="center" width="96">
+            <a href="https://sass-lang.com/">
+              <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="48" height="48" alt="Sass" />
+            </a>
+            <br>SASS
+        </td>
    <td align="center" width="96">
       <a href="#rahim-stack">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript"/>
@@ -13,7 +30,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> </a>
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"               alt="typescript" width="48" height="48"/> </a>
         <br>TypeScript
     </td>
    <td align="center" width="96">
